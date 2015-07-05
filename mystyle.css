@@ -1,0 +1,53 @@
+body {
+    background-color: white;
+}
+#header {
+    background-color:#14C2C2;
+    color: navy;
+    margin-left: 20px;
+	margin-right: 20px;
+	font-size: 20px;
+	font-style: bold;
+	font-family: "Trebuchet MS", Helvetica, sans-serif
+}
+
+#blah {
+	background-color: #8FF5D1;
+	color: navy;
+    margin-left: 20px;
+	margin-right: 20px;
+	font-size: 15px;
+	font-style: bold;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+}
+
+#linkedin {
+	margin-left: 20px;
+	margin-right: 20px;
+	color: #26B2CC;
+	font-size: 14px;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+}
+
+#intro {
+	color: #26B2CC;
+	margin-left: 20px;
+	font-size: 14px;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+
+#question {
+	color: black;
+	margin-left: 80px;
+	font-size: 16px;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+
+#answer{
+	color: #209FAD;
+    margin-left: 80px;
+	margin-right: 80px;
+	font-size: 16px;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+	
+}
